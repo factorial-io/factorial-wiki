@@ -8,13 +8,9 @@ Welcome to Factorial Wiki's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
+Drupal
+------
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+`Factorial Tools <projects/factorial-tools>`_
