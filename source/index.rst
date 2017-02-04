@@ -9,4 +9,4 @@ Welcome to Factorial Wiki's documentation!
 .. toctree::
    :maxdepth: 2
 
-    drupal
+   drupal
