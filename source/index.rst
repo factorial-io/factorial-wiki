@@ -9,8 +9,4 @@ Welcome to Factorial Wiki's documentation!
 .. toctree::
    :maxdepth: 2
 
-
-Drupal
-------
-
-`Factorial Tools <projects/factorial-tools>`_
+    drupal
